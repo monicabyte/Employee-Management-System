@@ -25,13 +25,13 @@ A simple and professional Employee Management System dashboard built using HTML,
 ## Project Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ### Add Employee
-![Add Employee](screenshots/add-employee.png)
+![Add Employee](add-employee.png)
 
 ### Employee Table
-![Employee Table](screenshots/employee-table.png)
+![Employee Table](employee-table.png)
 
 ## How to Run
 
